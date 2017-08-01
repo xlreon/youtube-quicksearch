@@ -1,0 +1,41 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-image: url('../src/back1.jpg') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+  background-color: blue;
+  border-radius: 20px;
+  opacity: 0.9;
+}
+.search-bar input {
+  width: 100%;
+  height: 6rem;
+  border-radius: 20px;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
