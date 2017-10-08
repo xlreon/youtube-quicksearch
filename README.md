@@ -5,7 +5,8 @@
 This is a youtube quicksearch app where the user can search for a keyword and instantly play related videos.
 
 ## Requirements
-* [Node.js](https://nodejs.org/en/)
+* [ReactJS](https://reactjs.org/)
+* [NodeJS](https://nodejs.org/en/)
 
 ## Installation and use
 * Download and install Node.js
@@ -14,6 +15,6 @@ This is a youtube quicksearch app where the user can search for a keyword and in
 * Change directory inside where you cloned the repository
 * ```npm install```
 * ```npm start```
-* Open your web browser and goto http://localhost:8080/webpack-dev-server/
+* Open your web browser and goto http://localhost:8080/
 
 ### Search for any videos and watch the magic happen!
